@@ -1,31 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=44&letterSpacing=letter-spacing%3A+2px&pause=1000&color=BD4EF7&center=true&vCenter=true&width=435&lines=Welcome+to+SMON.OS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=44&letterSpacing=letter-spacing%3A+2px&pause=1000&color=BD4EF7&vCenter=true&width=435&lines=Welcome+to+SMON.OS)](https://git.io/typing-svg)
 
 <p align="center">
 <pre>
- ______________________________________________________________________________________________________________________________
-| [—] [口] [X]                                                                                                                 |
-|------------------------------------------------------------------------------------------------------------------------------|
-|  USER PROFILE v1.0                                                                                                           |
-|                                                                                                                              |
-|   /\___/\          [SYSTEM STATUS]                                                                                           |
-|  (  o . o )        > NAME..............: Simone                                                                              |
-|   >  ^  <          > STATUS............: Sleeping                                                                            |
-|  /       \         > LOCATION..........: [Your City]                                                                         |
-|  \_______/         > VIBE..............: Minecraft                                                                           |
-|                                                                                                                              |
-|  [ INVENTORY ]                                                                                                               |
-|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                                                                      |
-|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                                                                 |
-|______________________________________________________________________________________________________________________________|
+ ___________________________________________________________________________________________________________________________
+| [—] [口] [X]                                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------------|
+|  USER PROFILE v1.0                                                                                                        |
+|                                                                                                                           |
+|   /\___/\          [SYSTEM STATUS]                                                                                        |
+|  (  o . o )        > NAME..............: Simone                                                                           |
+|   >  ^  <          > STATUS............: Sleeping                                                                         |
+|  /       \         > LOCATION..........: [Your City]                                                                      |
+|  \_______/         > VIBE..............: Minecraft                                                                        |
+|                                                                                                                           |
+|  [ INVENTORY ]                                                                                                            |
+|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                                                                   |
+|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                                                              |
+|___________________________________________________________________________________________________________________________|
 </pre>
 </p>
 
-### 🛠️ Installed Packages
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=D97DF7&vCenter=true&repeat=false&width=435&lines=Installed)](https://git.io/typing-svg)
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c" alt="Skills" />
 </p>
 
-### 📈 CPU Performance & Tasks
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=CE91FF&vCenter=true&repeat=false&width=435&lines=CPU+Performance+%26+Tasks)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=persimon-c&show_icons=true&theme=dracula" alt="Stats" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=persimon-c&theme=dracula" alt="Streak" width="400" />
@@ -40,7 +40,7 @@
 </pre>
 </p>
 
-### 💌 Follow Me!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=D7AAF7&vCenter=true&repeat=false&width=435&lines=Follow+Me!)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://instagram.com/per_smon">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
