@@ -1,24 +1,22 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=50&section=header&text=Loading&fontSize=20&fontAlignY=30" alt="Header" />
-Welcome to SMON.OS </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=44&letterSpacing=letter-spacing%3A+2px&pause=1000&color=BD4EF7&center=true&vCenter=true&width=435&lines=Welcome+to+SMON.OS)](https://git.io/typing-svg)
 
 <p align="center">
 <pre>
- ___________________________________________________________________________________________________________________
-| [—] [口] [X]                                                                                                      |
-|-------------------------------------------------------------------------------------------------------------------|
-|  USER PROFILE v1.0                                                                                                |
-|                                                                                                                   |
-|   /\___/\          [SYSTEM STATUS]                                                                                |
-|  (  o . o )        > NAME..............: Simone                                                                   |
-|   >  ^  < 🌹       > STATUS............: Sleeping                                                                 |
-|  /       \         > LOCATION..........: [Your City]                                                              |
-|  \_______/         > VIBE..............: Minecraft                                                                |
-|                                                                                                                   |
-|  [ INVENTORY ]                                                                                                    |
-|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                                                           |
-|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                                                      |
-|___________________________________________________________________________________________________________________|
+ ______________________________________________________________________________________________________________________________
+| [—] [口] [X]                                                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------|
+|  USER PROFILE v1.0                                                                                                           |
+|                                                                                                                              |
+|   /\___/\          [SYSTEM STATUS]                                                                                           |
+|  (  o . o )        > NAME..............: Simone                                                                              |
+|   >  ^  <          > STATUS............: Sleeping                                                                            |
+|  /       \         > LOCATION..........: [Your City]                                                                         |
+|  \_______/         > VIBE..............: Minecraft                                                                           |
+|                                                                                                                              |
+|  [ INVENTORY ]                                                                                                               |
+|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                                                                      |
+|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                                                                 |
+|______________________________________________________________________________________________________________________________|
 </pre>
 </p>
 
@@ -42,26 +40,15 @@ Welcome to SMON.OS </p>
 </pre>
 </p>
 
-### 💌 Network Protocol
+### 💌 Follow Me!
 <p align="left">
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/per_smon">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/persimon-c/persimon-c/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/persimon-c/persimon-c/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/persimon-c/persimon-c/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
