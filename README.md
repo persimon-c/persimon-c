@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=header&text=Loading&fontSize=20&fontAlignY=70" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=header&text=Loading&fontSize=20&fontAlignY=70" alt="Header" />
 </p>
 
-<p align="center">✨ Welcome to SMON.OS ✨</p>
+<p align="center">
+ <pre>Welcome to SMON.OS</pre>
+</p>
 <p align="center">
 <img src="https://counter.moe/get/@YOUR_USERNAME" alt="90s Counter" />
 </p>
