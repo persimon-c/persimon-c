@@ -8,14 +8,14 @@
 |  USER PROFILE v1.0                                                                                                        |
 |                                                                                                                           |
 |   /\___/\          [SYSTEM STATUS]                                                                                        |
-|  (  o . o )        > NAME..............: Simone                                                                           |
+|  (  o . o )        > NAME..............: Simone Pauline M. Dagondon                                                       |
 |   >  ^  <          > STATUS............: Sleeping                                                                         |
-|  /       \         > LOCATION..........: [Your City]                                                                      |
-|  \_______/         > VIBE..............: Minecraft                                                                        |
+|  /       \         > UNIVERSITY........: UPLB                                                                             |
+|  \_______/         > CURRENTLY.........: Sophomore                                                                        |
 |                                                                                                                           |
 |  [ INVENTORY ]                                                                                                            |
-|  > COFFEE...: Mocha                                > COLOR....: Purple                                                    |
-|  > PRONOUNS.: She/Her                              > FAVE.....: Minecraft                                                 |
+|  > COFFEE...: Mocha Coffee    > COLOR....: Purple        > HOBBY....: Reading LNs, Manga/hwa                              |
+|  > FOOD.....: Ice Cream       > FAVE.....: Minecraft                  and Watching Youtube                                |
 |___________________________________________________________________________________________________________________________|
 </pre>
 </p>
