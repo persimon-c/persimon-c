@@ -11,7 +11,7 @@
 |  (  o . o )        > NAME..............: Simone Pauline M. Dagondon                                                       |
 |   >  ^  <          > STATUS............: Sleeping                                                                         |
 |  /       \         > UNIVERSITY........: UPLB                                                                             |
-|  \_______/         > CURRENTLY.........: Sophomore                                                                        |
+|  \_______/         > YEAR_LVL..........: Sophomore                                                                        |
 |                                                                                                                           |
 |  [ INVENTORY ]                                                                                                            |
 |  > COFFEE...: Mocha Coffee    > COLOR....: Purple        > HOBBY....: Reading LNs, Manga/hwa                              |
