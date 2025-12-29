@@ -25,12 +25,7 @@
 <img src="https://skillicons.dev/icons?i=python,c" alt="Skills" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=CE91FF&vCenter=true&repeat=false&width=435&lines=CPU+Performance+%26+Tasks)](https://git.io/typing-svg)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=persimon-c&show_icons=true&theme=dracula" alt="Stats" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=persimon-c&theme=dracula" alt="Streak" width="400" />
-</p>
-
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=CE91FF&vCenter=true&repeat=false&width=435&lines=CPU+Performance+%26+Tasks)](https://git.io/typing-svg)
 <p align="center">
 <pre>
                                                |\      _,,,---,,_
@@ -38,7 +33,7 @@
                                            |,4-  ) )-,_. ,\ (  `'-'
                                            '---''(_/--'  `-'\_)
 </pre>
-</p>
+</p> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=D7AAF7&vCenter=true&repeat=false&width=435&lines=Follow+Me!)](https://git.io/typing-svg)
 <p align="left">
@@ -51,5 +46,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AE6AFF&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
 </p>
