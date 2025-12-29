@@ -3,7 +3,7 @@
 <p align="center">
 <pre>
  ___________________________________________________________________________________________________________________________
-| [—] [口] [X]                                                                                                              |
+|                                                                                                             [—] [口] [X]  |
 |---------------------------------------------------------------------------------------------------------------------------|
 |  USER PROFILE v1.0                                                                                                        |
 |                                                                                                                           |
@@ -14,15 +14,15 @@
 |  \_______/         > VIBE..............: Minecraft                                                                        |
 |                                                                                                                           |
 |  [ INVENTORY ]                                                                                                            |
-|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                                                                   |
-|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                                                              |
+|  > COFFEE...: Mocha                                > COLOR....: Purple                                                    |
+|  > PRONOUNS.: She/Her                              > FAVE.....: Minecraft                                                 |
 |___________________________________________________________________________________________________________________________|
 </pre>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=D97DF7&vCenter=true&repeat=false&width=435&lines=Installed)](https://git.io/typing-svg)
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,c,blender,html,css,java,vscode" alt="Skills" />
 </p>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=CE91FF&vCenter=true&repeat=false&width=435&lines=CPU+Performance+%26+Tasks)](https://git.io/typing-svg)
