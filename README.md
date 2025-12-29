@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=header&text=Loading&fontSize=20&fontAlignY=30" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=50&section=header&text=Loading&fontSize=20&fontAlignY=30" alt="Header" />
 Welcome to SMON.OS </p>
 
 <p align="center">
@@ -55,7 +55,13 @@ Welcome to SMON.OS </p>
 </a>
 </p>
 
-![Profile views](https://counter.kuber.studio/persimon-c/hacker/count.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/persimon-c/persimon-c/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/persimon-c/persimon-c/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/persimon-c/persimon-c/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
