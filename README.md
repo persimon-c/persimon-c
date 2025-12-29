@@ -1,44 +1,42 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=header&text=Loading&fontSize=20&fontAlignY=70&fontColor=B19CD9" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=header&text=Loading&fontSize=20&fontAlignY=30" alt="Header" />
 </p>
 
+<p align="center">Welcome to SMON.OS </p>
 <p align="center">
- <pre>Welcome to SMON.OS</pre>
-</p>
-<p align="center">
-<img src="https://counter.moe/get/@YOUR_USERNAME" alt="90s Counter" />
+<img src="https://counter.moe/get/@persimon-c" alt="90s Counter" />
 </p>
 
 <p align="center">
 <pre>
- ____________________________________________________________________________________
-| [—] [口] [X]                                                                       |
-|------------------------------------------------------------------------------------|
-|  USER PROFILE v1.0                                                                 |
-|                                                                                    |
-|   /\___/\          [SYSTEM STATUS]                                                 |
-|  (  o . o )        > NAME..............: Simone                                    |
-|   >  ^  < 🌹       > STATUS............: Sleeping                                  |
-|  /       \         > LOCATION..........: [Your City]                               |
-|  \_______/         > VIBE..............: Minecraft                                 |
-|                                                                                    |
-|  [ INVENTORY ]                                                                     |
-|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                            |
-|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                       |
-|____________________________________________________________________________________|
+ ___________________________________________________________________________________________________________________
+| [—] [口] [X]                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------|
+|  USER PROFILE v1.0                                                                                                |
+|                                                                                                                   |
+|   /\___/\          [SYSTEM STATUS]                                                                                |
+|  (  o . o )        > NAME..............: Simone                                                                   |
+|   >  ^  < 🌹       > STATUS............: Sleeping                                                                 |
+|  /       \         > LOCATION..........: [Your City]                                                              |
+|  \_______/         > VIBE..............: Minecraft                                                                |
+|                                                                                                                   |
+|  [ INVENTORY ]                                                                                                    |
+|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                                                           |
+|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                                                      |
+|___________________________________________________________________________________________________________________|
 </pre>
 </p>
 
 ### 🛠️ Installed Packages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,git,bash,vscode,linux,c" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,c" alt="Skills" />
 </p>
 
-<!-- ### 📈 CPU Performance & Tasks
+### 📈 CPU Performance & Tasks
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" alt="Stats" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="Streak" width="400" />
-</p> -->
+<img src="https://github-readme-stats.vercel.app/api?username=persimon-c&show_icons=true&theme=dracula" alt="Stats" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=persimon-c&theme=dracula" alt="Streak" width="400" />
+</p>
 
 <p align="center">
 <pre>
@@ -64,5 +62,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70&fontColor=9279BA" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
 </p>
