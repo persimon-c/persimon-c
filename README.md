@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">Welcome to SMON.OS </p>
-<p align="center">
-<img src="https://counter.moe/get/@persimon-c" alt="90s Counter" />
-</p>
 
 <p align="center">
 <pre>
@@ -58,8 +55,9 @@
 <a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://hits.dwyl.com/YOUR_USERNAME/YOUR_USERNAME.svg?style=flat-square&color=ffb6c1" align="right" alt="Hits" />
 </p>
+
+![Profile views](https://counter.kuber.studio/persimon-c/hacker/count.svg)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
