@@ -1,8 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=100&section=header&text=Loading&fontSize=20&fontAlignY=30" alt="Header" />
-</p>
-
-<p align="center">Welcome to SMON.OS </p>
+Welcome to SMON.OS </p>
 
 <p align="center">
 <pre>
