@@ -34,7 +34,7 @@
                                            '---''(_/--'  `-'\_)
 </pre>
 </p> -->
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=D7AAF7&vCenter=true&repeat=false&width=435&lines=Follow+Me!)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://instagram.com/per_smon">
@@ -45,6 +45,6 @@
 </a>
 </p>
 
-<!-- <p align="center">
+ <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AE6AFF&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
 </p> -->
