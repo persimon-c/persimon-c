@@ -1,50 +1,49 @@
-<p align="center">✨ Welcome to [NAME].OS ✨</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=header&text=Loading&fontSize=20&fontAlignY=70" alt="Header" />
+</p>
+
+<p align="center">✨ Welcome to SMON.OS ✨</p>
 <p align="center">
 <img src="https://counter.moe/get/@YOUR_USERNAME" alt="90s Counter" />
 </p>
 
 <p align="center">
 <pre>
- _____________________________________________________________________
-| [—] [口] [X]                                                        |
-|---------------------------------------------------------------------|
-|  USER PROFILE v2.5                                                  |
-|                                                                     |
-|   /\___/\      [SYSTEM STATUS]                                      |
-|  (  o . o )    > NAME.......: [Your Name]                           |
-|   >  ^  <      > STATUS.....: [Coding/Sleeping]                     |
-|  /       \     > LOCATION...: [Your City]                           |
-|  \_______/     > VIBE.......: [Cyber-Pastel]                        |
-|                                                                     |
-|  [ INVENTORY ]                                                      |
-|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]             |
-|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]        |
-|_____________________________________________________________________|
+ ____________________________________________________________________________________
+| [—] [口] [X]                                                                       |
+|------------------------------------------------------------------------------------|
+|  USER PROFILE v1.0                                                                 |
+|                                                                                    |
+|   /\___/\          [SYSTEM STATUS]                                                 |
+|  (  o . o )        > NAME..............: Simone                                    |
+|   >  ^  < 🌹       > STATUS............: Sleeping                                  |
+|  /       \         > LOCATION..........: [Your City]                               |
+|  \_______/         > VIBE..............: Minecraft                                 |
+|                                                                                    |
+|  [ INVENTORY ]                                                                     |
+|  > COFFEE...: [Flat White]     > ZODIAC...: [Your Sign]                            |
+|  > PRONOUNS.: [She/They]       > FAVE.....: [Stardew Valley]                       |
+|____________________________________________________________________________________|
 </pre>
 </p>
 
 ### 🛠️ Installed Packages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,tailwind,git,bash,vscode,linux,docker,mysql,postman" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,git,bash,vscode,linux,c" alt="Skills" />
 </p>
 
-### 📈 CPU Performance & Tasks
+<!-- ### 📈 CPU Performance & Tasks
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" alt="Stats" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="Streak" width="400" />
-</p>
+</p> -->
 
 <p align="center">
 <pre>
-       _ _
-      (_\_)      "Flowers for your visit!"
-       \ /        
-        |        __________________________________________
-      --|-------|  IDLE_PROCESS: Sleeping_Cat.exe          |--
-       |\      _,,,---,,_
- ZZZzz /,`.-'`'    -.  ;-;;,_
-      |,4-  ) )-,_. ,\ (  `'-'
-     '---''(_/--'  `-'\_)
+                                               |\      _,,,---,,_
+                                      ZZZzz /,`.-'`'    -.  ;-;;,_
+                                           |,4-  ) )-,_. ,\ (  `'-'
+                                           '---''(_/--'  `-'\_)
 </pre>
 </p>
 
