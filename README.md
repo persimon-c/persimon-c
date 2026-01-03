@@ -48,3 +48,5 @@
  <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AE6AFF&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
 </p> -->
+
+<p style="color: navy; font-style: italic;"> mainly for archiving if im not lazy enough </p>
