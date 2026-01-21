@@ -20,7 +20,6 @@
 </pre>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=D97DF7&vCenter=true&repeat=false&width=435&lines=Installed)](https://git.io/typing-svg)
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,blender,html,css,java,vscode" alt="Skills" />
 </p>
