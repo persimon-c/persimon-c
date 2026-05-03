@@ -49,3 +49,7 @@
 </p> -->
 ![](https://komarev.com/ghpvc/?username=persimon-c&color=blueviolet&style=plastic&label=test)
 <p style="color: navy; font-style: italic;"> mainly for archiving if im not lazy enough </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=persimon-c&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=persimon-c&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=persimon-c&theme=dracula&utcOffset=8)
