@@ -48,4 +48,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=AE6AFF&height=100&section=footer&text=Shutdown%20Complete&fontSize=20&fontAlignY=70" alt="Footer" />
 </p> -->
 ![](https://komarev.com/ghpvc/?username=persimon-c&color=blueviolet&style=plastic&label=test)
-![](https://komarev.com/ghpvc/?username=persimon-c&color=blueviolet&style=plastic&label=meow count)
+![](https://komarev.com/ghpvc/?username=persimon-c&color=blueviolet&style=plastic&label=meow%20count)
