@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,blender,html,css,java,vscode,git,github,figma,dart,arch,vim,blender" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,c,blender,html,css,java,r,vscode,git,github,figma,dart,js,ts,nodejs,react,vite,svelte,tailwind,mongodb,mysql,linux,ubuntu,arch,lua,vim,blender" alt="Skills" />
 </p>
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&letterSpacing=letter-spacing%3A+2px&duration=4000&pause=1000&color=CE91FF&vCenter=true&repeat=false&width=435&lines=CPU+Performance+%26+Tasks)](https://git.io/typing-svg)-->
