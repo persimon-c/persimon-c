@@ -21,9 +21,9 @@
 </p>
 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=python,c,html,css,java,r,dart" alt="Skills" /> </br>
+ <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,java,r,dart" alt="Skills" /> </br>
  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" alt="Skills" /> </br>
- <img src="https://skillicons.dev/icons?i=nodejs,react,js,ts,vite,svelte,tailwind,mongodb,mysql" alt="Skills" /> </br>
+ <img src="https://skillicons.dev/icons?i=nodejs,react,vite,svelte,tailwind,mongodb,mysql" alt="Skills" /> </br>
  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,lua,qt,vim" alt="Skills" /> </br>
  <img src="https://skillicons.dev/icons?i=blender,figma" alt="Skills" /> 
 </p>
