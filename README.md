@@ -22,7 +22,7 @@
 
 <p align="left">
  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,ts,java,r,dart" alt="Skills" /> </br>
- <img src="https://skillicons.dev/icons?i=git,github,gitea,docker" alt="Skills" /> </br>
+ <img src="https://skillicons.dev/icons?i=git,github,tea,docker" alt="Skills" /> </br>
  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,svelte,tailwind,mongodb,mysql" alt="Skills" /> </br>
  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,lua,qt,vim" alt="Skills" /> </br>
  <img src="https://skillicons.dev/icons?i=blender,figma" alt="Skills" /> 
